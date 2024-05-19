@@ -40,3 +40,13 @@ if __name__ == "__main__":
         sort_words(sys.argv[1])
         sort_words(sys.argv[1])
         sort_words(sys.argv[1])
+
+
+sort_words(sys.argv[1])
+        sort_words(sys.argv[1])
+        sort_words(sys.argv[1])
+        sort_words(sys.argv[1])
+        sort_words(sys.argv[1])
+        sort_words(sys.argv[1])sort_words(sys.argv[1])
+        sort_words(sys.argv[1])
+        sort_words(sys.argv[1])
